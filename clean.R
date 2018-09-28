@@ -5,10 +5,3 @@ txt <- lm(dist ~ speed, data=cars)
 txt
 
 a <- 4
-bwv 
-bb ob
-
-oebo 
-bf
-  dbj
-   obu
