@@ -10,7 +10,3 @@ b <- 5
 
 a/b  
 
-a + b
-
-bf  efjb
-
