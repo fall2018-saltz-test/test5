@@ -1,6 +1,6 @@
 
 clean_data <- raw_data
 
-text <- head(raw_data)
+txt <- head(raw_data)
 
 
