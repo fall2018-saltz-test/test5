@@ -56,6 +56,16 @@
             ],
             "source": "clean.R",
             "target": "script5646.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "tej",
+                    "type": "png"
+                }
+            ],
+            "source": "script5646.R",
+            "target": "plot4611.png"
         }
     ],
     "nodes": [
@@ -86,6 +96,6 @@
             "name": "plot4611.png"
         }
     ],
-    "updated_at": "2018-10-01 18:06:13",
+    "updated_at": "2018-10-01 18:06:20",
     "url": "https://github.com/fall2018-saltz-test/test5"
 }
