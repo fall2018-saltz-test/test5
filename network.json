@@ -45,6 +45,17 @@
             ],
             "source": "clean.R",
             "target": "script2111.R"
+        },
+        {
+            "ports": [
+                {
+                    "input": "er",
+                    "output": "er",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "clean.R",
+            "target": "script5646.R"
         }
     ],
     "nodes": [
@@ -66,8 +77,12 @@
             "desc": "",
             "name": "clean.R",
             "task_status": "in progress"
+        },
+        {
+            "desc": "",
+            "name": "script5646.R"
         }
     ],
-    "updated_at": "2018-10-01 16:57:43",
+    "updated_at": "2018-10-01 18:06:01",
     "url": "https://github.com/fall2018-saltz-test/test5"
 }
