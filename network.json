@@ -66,6 +66,16 @@
             ],
             "source": "script5646.R",
             "target": "plot4611.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "yri",
+                    "type": "csv"
+                }
+            ],
+            "source": "script5646.R",
+            "target": "csvfile4618.csv"
         }
     ],
     "nodes": [
@@ -103,6 +113,6 @@
             "name": "csvfile4618.csv"
         }
     ],
-    "updated_at": "2018-10-01 18:06:39",
+    "updated_at": "2018-10-01 18:06:56",
     "url": "https://github.com/fall2018-saltz-test/test5"
 }
