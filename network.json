@@ -107,12 +107,12 @@
             "name": "csvfile4618.csv"
         },
         {
-            "assigned_to": "yhegde",
+            "assigned_to": "not assigned",
             "desc": "",
             "name": "clean.R",
-            "task_status": "in progress"
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-01 18:27:30",
+    "updated_at": "2018-10-01 18:27:42",
     "url": "https://github.com/fall2018-saltz-test/test5"
 }
