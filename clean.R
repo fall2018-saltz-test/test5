@@ -4,5 +4,5 @@ clean_data <- raw_data
 txt <- head(raw_data)
 
  #install.package
-install.packages() 
+install.pack 
 vbfi 
