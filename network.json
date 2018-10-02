@@ -100,10 +100,6 @@
             "name": "text5941.txt"
         },
         {
-            "desc": "uebfhveibh",
-            "name": "script2111.R"
-        },
-        {
             "desc": "",
             "name": "script5646.R"
         },
@@ -119,11 +115,17 @@
         },
         {
             "assigned_to": "not assigned",
+            "desc": "uebfhveibh",
+            "name": "script2111.R",
+            "task_status": "not started"
+        },
+        {
+            "assigned_to": "yatish2",
             "desc": "",
             "name": "clean.R",
-            "task_status": "proposed"
+            "task_status": "completed"
         }
     ],
-    "updated_at": "2018-10-01 18:37:03",
+    "updated_at": "2018-10-02 19:14:26",
     "url": "https://github.com/fall2018-saltz-test/test5"
 }
