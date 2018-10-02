@@ -118,16 +118,18 @@
             "task_status": "completed"
         },
         {
-            "desc": "",
-            "name": "script5646.R"
-        },
-        {
             "assigned_to": "yatish2",
             "desc": "",
             "name": "script4395.R",
             "task_status": "in progress"
+        },
+        {
+            "assigned_to": "yatish2",
+            "desc": "",
+            "name": "script5646.R",
+            "task_status": "validating"
         }
     ],
-    "updated_at": "2018-10-02 19:16:17",
+    "updated_at": "2018-10-02 19:16:57",
     "url": "https://github.com/fall2018-saltz-test/test5"
 }
